@@ -1,0 +1,107 @@
+name,age,minutes_played,goals,assist,top_speed,class
+Marko Arnautović,32,217,7,2,31.5,B
+Michael Gregoritsch,27,312,2,1,28.8,C
+Sasa Kalajdzic,24,112,1,0,27.2,C
+Romelu Lukaku,28,849,11,4,31.3,A+
+Eden Hazard,30,893,5,8,29.7,A
+Jeremy Doku,19,165,0,0,32,B
+Dries Mertens,34,746,2,4,29.9,B
+Yannick Carrasco,28,393,1,4,29.5,B
+Michy Batshuayi,28,393,4,1,27,C
+Leandro Trossard,26,75,0,0,28.6,C
+Christian Benteke,30,111,3,0,25.4,D
+Ante Rebić,28,613,1,2,31.3,B
+Bruno Petković,27,671,4,1,27.9,B
+Andrej Kramarić,30,497,1,2,29.9,C
+Josip Brekalo,23,482,0,0,28.4,C
+Mislav Oršić,28,66,1,1,29,C
+Ante Budimir,30,41,0,0,28.8,D
+Patrik Schick,25,867,9,1,32.4,A
+Adam Hložek,19,76,0,0,26.8,C
+Matěj Vydra,29,80,0,0,29,C
+Michael Krmenčík,28,156,0,0,27,C
+Tomáš Pekhart,32,15,0,0,25.4,D
+Yussuf Poulsen,27,883,4,1,30.6,B
+Martin Braithwaite,30,1086,4,0,31.5,B
+Kasper Dolberg,24,500,5,1,30.6,B
+Jonas Wind,22,79,0,0,31.5,C
+Mikkel Damsgaard,31,330,2,1,31.5,C
+Andreas Skov Olsen,21,33,0,0,27.4,C
+Andreas Evald Cornelius,28,181,0,1,27.9,C
+Raheem Sterling,26,1215,11,8,33.1,A+
+Harry Kane,28,1316,16,5,30.8,A+
+Marcus Rashford,24,393,3,0,33.5,B
+Dominic Calvert-Lewin,24,18,0,0,27.4,C
+Teemu Pukki,31,1122,10,1,33.3,A
+Lassi Lappalainen,23,272,0,1,32.21,B
+Joel Pohjanpalo,27,326,2,1,28.8,C
+Marcus Forss,22,7,0,0,27.7,C
+Antoine Griezmann,30,1238,4,8,30.2,A+
+Kylian Mbappé,22,840,3,4,32.21,A
+Kingsley Coman,25,560,3,0,33.71,B
+Olivier Giroud,35,737,6,0,28.8,C
+Karim Benzema,33,349,4,0,29.5,C
+Ousmane Dembélé,24,32,0,0,28.1,C
+Marcus Thuram,24,9,0,0,23.8,D
+Serge Gnabry,26,842,8,1,30.8,B
+Timo Werner,25,354,2,0,27.4,C
+Thomas Müller,32,292,0,0,29.5,C
+Kevin Volland,29,10,0,0,29.2,C
+Roland Sallai,24,761,0,2,29.2,B
+Ádám Szalai,33,1061,2,2,26.1,C
+Szabolcs Schön,21,28,0,0,27.4,C
+Nemanja Nikolić,33,115,1,0,29,D
+Frederico Chiesa,24,835,3,3,33.1,A
+Ciro Immobile,31,769,5,3,31.7,B
+Andrea Belotti,27,605,4,3,30.2,B
+Lorenzo Insigne,30,512,5,1,30.8,B
+Domenico Berardi,27,365,0,2,31.5,B
+Giacomo Raspadori,21,15,0,0,25.2,C
+Memphis Depay,27,822,8,10,30.8,A+
+Donyel Malen,22,359,1,3,31.3,B
+Cody Gakpo,22,12,0,0,33.6,B
+Quincy Promes,29,515,0,2,31,B
+Wout Weghorst,29,220,1,0,29.2,C
+Steven Berghuis,29,146,0,0,29.5,C
+Luuk De Jong,31,153,1,0,26.8,D
+Goran Pandev,38,1070,3,2,29.5,B
+Aleksandar Trajkobski,29,412,0,0,29.5,C
+Vlatko Stojanovski,24,149,1,0,27,C
+Daniel Avramovski,26,52,0,0,27,C
+Milan Ristovski,23,4,0,0,25.7,C
+Ivan Trickovski,34,194,0,0,27,D
+Cristiano Ronaldo,36,1002,16,1,29.7,B
+Diogo Jota,24,350,1,2,31.7,B
+Rafa Silva,28,197,0,3,32.8,B
+Joao Felix,22,278,0,0,30.4,C
+Andre Silva,26,213,0,0,30.4,C
+Artem Dzyuba,33,1130,10,6,30.2,A+
+Aleksei Miranchuk,26,432,2,0,29.5,C
+Aleksander Sobolev,24,35,0,0,24.8,D
+Ryan Christie,26,530,2,2,27.9,B
+Che Adams,25,215,0,0,31.3,C
+Lyndon Dykes,26,431,0,0,29.9,C
+Kevin Nisbet,24,21,0,0,25,D
+Michal Duris,33,195,1,0,27.2,D
+Alvaro Morata,29,891,7,0,32,B
+Ferran Torres ,21,366,2,1,30.8,B
+Gerrard Moreno,29,513,3,6,28.1,B
+Dani Olmo,23,403,1,3,28.6,B
+Pablo Sarabia,29,378,3,2,27.4,C
+Alexander Isak,22,685,3,1,32,B
+Emil Forsberg ,30,979,5,2,29,B
+Marcus Berg,35,865,2,3,28.6,B
+Breel Embolo,24,860,2,2,32.8,B
+Haris Seferovic,29,652,4,0,32.4,B
+Mario Gavranovic ,32,247,2,0,26.3,D
+Cengiz Under,24,374,1,0,32,B
+Burak Yilmaz,36,898,1,1,31.5,C
+Kenan Karaman,27,501,0,0,28.4,C
+Dervisoglu,21,29,0,0,23.2,D
+Roman Yaremchuk,26,917,6,2,30.8,B
+Andriy Yarmolenko,32,749,3,3,30.4,B
+Artem Besedin,25,49,1,0,29.5,C
+Artem Dovbyk,24,15,1,0,25.4,C
+Gareth Bale,32,1044,2,3,32,B
+Kieffer Moore,29,644,3,1,32.21,B
+Tyler Roberts ,22,46,0,0,24.3,D

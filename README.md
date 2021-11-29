@@ -1,4 +1,4 @@
-# Klasifikasi Overall Rate Penyerang Sepak Bola UEFA & Copa America menggunakan Algoritma K-Nearest Neighbors
+# Klasifikasi *Overall Rate* Penyerang Sepak Bola UEFA & Copa America menggunakan Algoritma K-Nearest Neighbors
 > Dibuat untuk memenuhi Tugas Akhir Sistem Pengenalan Pola
 >
 > Anggota Kelompok:
@@ -13,4 +13,10 @@
 | A  | Pemain memiliki *Overall Rate* yang tinggi  |
 | B  | Pemain memiliki *Overall Rate* yang normal  |
 | C  | Pemain memiliki *Overall Rate* yang rendah  |
-| A  | Pemain memiliki *Overall Rate* yang sangat rendah  |
+| D  | Pemain memiliki *Overall Rate* yang sangat rendah  |
+
+Dataset Source:
+```
+https://www.whoscored.com/
+https://www.uefa.com/
+```

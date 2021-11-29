@@ -2,7 +2,9 @@
 > Dibuat untuk memenuhi Tugas Akhir Sistem Pengenalan Pola
 >
 > Anggota Kelompok:
+
 > La Ode Adriyan Hazmar
+
 > M. Ihsan An-Nashir
 
 ## Klasifikasi Pemain
